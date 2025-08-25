@@ -99,6 +99,14 @@ A sinergia entre a comunicação eficaz, a adaptabilidade e o conhecimento técn
 
 ---
 
+## 🧙‍♂️ Desenvolvedor
+
+**Darlei Mota**  
+- 📍 [Código em Jornada/Senai - FullStack](https://github.com/DarleiMota/senaiFullStack)
+- 🔗 [Github](https://github.com/DarleiMota)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/darleimota)
+
+---
 ### **Referências e Fontes**
 
 * **Comunicação:** JAKOBSON, Roman. **Linguística e Comunicação.** 29. ed. São Paulo: Cultrix, 2011.
